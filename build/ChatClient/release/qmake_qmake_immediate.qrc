@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="style/style1.qss">D:/QT_Projects/dz/Project_36_dz/ChatClient/style/style1.qss</file>
+</qresource>
+</RCC>
